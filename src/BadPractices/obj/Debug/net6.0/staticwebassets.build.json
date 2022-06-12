@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ghRFTMFkgYXU1vXZVSH3pWvvODBtI4OrDZdKCo2ywew=",
+  "Source": "BadPractices",
+  "BasePath": "_content/BadPractices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
